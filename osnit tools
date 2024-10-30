@@ -75,20 +75,7 @@ Happy hacking and hunting 🧙‍♂️
  - [Other Resources](#-other-resources)
  - [Related Awesome Lists](#-related-awesome-lists)
 
-## [↑](#-table-of-contents) Contributing
-
-Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resources. Feel free to help 🥰 us grow this list with great resources.
-
-## [↑](#-table-of-contents) Credits
-
-This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/).
-
-Thanks to our main contributors
-[jivoi EK_](https://github.com/jivoi) & 
-[spmedia](https://github.com/spmedia)
-
 ## [↑](#-table-of-contents) General Search
-
 *The main search engines used by users.*
 
 * [Aol](https://search.aol.com) - The web for America.
@@ -110,7 +97,6 @@ algorithms, knowledgebase and AI technology.
 * [YOU](https://you.com) - AI search engine.
 
 ## [↑](#-table-of-contents) Main National Search Engines
-
 *Localized search engines by country.*
 
 * [Alleba (Philippines)](http://www.alleba.com) - Philippines search engine
@@ -130,7 +116,6 @@ algorithms, knowledgebase and AI technology.
 * [Najdi.si (Slovenia)](http://www.najdi.si/)
 
 ## [↑](#-table-of-contents) Meta Search
-
 *Lesser known and used search engines.*
 
 * [All-in-One](http://all-io.net)
@@ -144,7 +129,6 @@ algorithms, knowledgebase and AI technology.
 * [Swisscows](https://swisscows.com/)
 
 ## [↑](#-table-of-contents) Specialty Search Engines
-
 *Search engines for specific information or topics.*
 
 * [2lingual Search](http://www.2lingual.com)
@@ -167,14 +151,12 @@ algorithms, knowledgebase and AI technology.
 * [Zanran](http://zanran.com)
 
 ## [↑](#-table-of-contents) Visual Search and Clustering Search Engines
-
 *Search engines that scrape multiple sites (Google, Yahoo, Bing, Goo, etc) at the same time and return results.*
 
 * [Carrot2](https://search.carrot2.org) - Organizes your search results into topics.
 * [Zapmeta](http://www.zapmeta.com)
 
 ## [↑](#-table-of-contents) Similar Sites Search
-
 *Find websites that are similar. Good for business competition research.*
 
 * [Google Similar Pages](https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej)
@@ -182,7 +164,6 @@ algorithms, knowledgebase and AI technology.
 * [SitesLike](http://www.siteslike.com) - Find similar websites by category
 
 ## [↑](#-table-of-contents) Document and Slides Search
-
 *Search for data located on PDFs, Word documents, presentation slides, and more.*
 
 * [Find-pdf-doc](http://www.findpdfdoc.com)
@@ -194,7 +175,6 @@ algorithms, knowledgebase and AI technology.
 * [Slideworld](http://www.slideworld.com)
 
 ## [↑](#-table-of-contents) File Search
-
 *Search for all kind of files.*
 
 * [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
@@ -206,7 +186,6 @@ algorithms, knowledgebase and AI technology.
 * [SearchFiles.de](https://searchfiles.de/)
 
 ## [↑](#-table-of-contents) Pastebins
-
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
 * [0bin](https://0bin.net)
@@ -229,7 +208,6 @@ algorithms, knowledgebase and AI technology.
 
 
 ## [↑](#-table-of-contents) Code Search
-
 *Search by website source code*
 * [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
 * [Code Finder](https://codefinder.dev/) - The ultimate search engine for finding GitHub repositories
@@ -241,7 +219,6 @@ algorithms, knowledgebase and AI technology.
 * [SourceGraph](https://sourcegraph.com/search) - Search code from millions of open source repositories.
 
 ## [↑](#-table-of-contents) Major Social Networks
-
 * [Draugiem (Latvia)](https://www.draugiem.lv)
 * [Facebook](http://www.facebook.com)
 * [Instagram](https://www.instagram.com)
@@ -260,7 +237,6 @@ algorithms, knowledgebase and AI technology.
 * [Xing](https://www.xing.com)
 
 ## [↑](#-table-of-contents) Real-Time Search, Social Media Search, and General Social Media Tools
-
 * [Audiense](https://www.audiense.com) - Tool to identify relevant audience, discover actionable insights and inform strategies to grow your business.
 * [Bottlenose](http://bottlenose.com)
 * [Brandwatch](https://www.brandwatch.com)
@@ -295,7 +271,6 @@ algorithms, knowledgebase and AI technology.
 * [WATools](https://watools.io/)
 
 ## Social Media Tools
-
 ### [↑](#-table-of-contents) Twitter
 
 * [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
@@ -317,7 +292,6 @@ algorithms, knowledgebase and AI technology.
 * [Twitter Search](http://search.twitter.com)
 
 ### [↑](#-table-of-contents) Facebook
-
 * [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 * [Facebook Search](http://search.fb.com/)
 * [Fanpage Karma](http://www.fanpagekarma.com)
@@ -329,7 +303,6 @@ algorithms, knowledgebase and AI technology.
 * [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 
 ### [↑](#-table-of-contents) Instagram
-
 * [Iconosquare](http://iconosquare.com)
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname. 
 * [Picodash](https://www.picodash.com) - Find Instagram Target Audience and Influencers
@@ -341,7 +314,6 @@ algorithms, knowledgebase and AI technology.
 * [Pingroupie](http://pingroupie.com)
 
 ### [↑](#-table-of-contents) Reddit
-
 *Tools to help discover more about a reddit user or subreddit.*
 
 * [Imgur](http://imgur.com/search?q=) - The most popular image hosting website used by redditors.
@@ -356,7 +328,6 @@ algorithms, knowledgebase and AI technology.
 
 
 ### [↑](#-table-of-contents) VKontakte
-
 *Perform various OSINT on Russian social media site VKontakte.*
 
 * [Дезертир](http://vk.com/app3046467)
@@ -1411,9 +1382,3 @@ algorithms, knowledgebase and AI technology.
 * [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
 * [SecLists](https://github.com/danielmiessler/SecLists) by @danielmiessler
 * [security-list](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
-
-## License
-
-![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
