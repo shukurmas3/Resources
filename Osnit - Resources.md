@@ -72,11 +72,6 @@ This list is to help all of those who are into Cyber Threat Intellience (CTI), t
  - [Other Resources](#-other-resources)
  - [Related Awesome Lists](#-related-awesome-lists)
 
-## [↑](#-table-of-contents) Contributing
-
-Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resources. Feel free to help 🥰 us grow this list with great resources.
-
-
 ## [↑](#-table-of-contents) General Search
 
 *The main search engines used by users.*
