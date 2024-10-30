@@ -1,6 +1,4 @@
-# Awesome OSINT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-[<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
+# OSINT RESOURCES
 
 A curated list of amazingly awesome open source intelligence tools and resources.
 [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is intelligence collected from publicly available sources.
@@ -8,7 +6,6 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
 
 This list is to help all of those who are into Cyber Threat Intellience (CTI), threat hunting, or OSINT. From beginners to advanced. 
 
-Happy hacking and hunting 🧙‍♂️
 
 ## 📖 Table of Contents
 
@@ -79,13 +76,6 @@ Happy hacking and hunting 🧙‍♂️
 
 Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resources. Feel free to help 🥰 us grow this list with great resources.
 
-## [↑](#-table-of-contents) Credits
-
-This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/).
-
-Thanks to our main contributors
-[jivoi EK_](https://github.com/jivoi) & 
-[spmedia](https://github.com/spmedia)
 
 ## [↑](#-table-of-contents) General Search
 
@@ -1411,9 +1401,3 @@ algorithms, knowledgebase and AI technology.
 * [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
 * [SecLists](https://github.com/danielmiessler/SecLists) by @danielmiessler
 * [security-list](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
-
-## License
-
-![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
